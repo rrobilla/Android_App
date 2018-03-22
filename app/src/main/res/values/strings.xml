@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidTemperatureConverter</string>
+
+
+    <string-array name="conv_array">
+        <item>Temperature</item>
+        <item>Area</item>
+        <item>Length</item>
+        <item>Weight</item>
+    </string-array>
+</resources>
